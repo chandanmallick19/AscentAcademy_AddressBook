@@ -9,7 +9,7 @@
 </head>
 
 <body>
-<h2 style="text-align:center;"> ASCENT ACADEMY ADDRESS BOOK </h2>
+<h2 style="text-align:center;"> ASCENT ACADEMY ADDRESS BOOK 📙</h2>
 <hr>
 <p>
 This project is made with 
