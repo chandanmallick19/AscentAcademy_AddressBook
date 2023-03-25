@@ -13,7 +13,7 @@
 <hr>
 <p>
 This project is made with 
-<a href="#">@AscentAcademy</a> for the web development internship program for the month of March-2023. <br>
+<a href="#">@AscentAcademy</a> for the web development internship program in the month of March-2023. <br>
 
 Those who want to participate in the event can register on this page using the register button. In the
 header section, you can mention the key speakers of the event, the schedule, various events, and so
